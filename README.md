@@ -1,5 +1,5 @@
 ### Hi there 👋
-3° SEMESTRE DE ENGENHARIA DE SOFTWARE
+ESTUDANTE DE ENGENHARIA DE SOFTWARE (5° SEMESTRE)
 <!--
 **vittormanuel/vittormanuel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
